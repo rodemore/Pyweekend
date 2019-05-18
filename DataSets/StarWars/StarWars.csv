@@ -1,0 +1,78 @@
+,eye_color,films,hair_color,height,mass,name,planet,specie
+0,blue,5,blond,172,77,Luke Skywalker,Tatooine,Human
+1,yellow,6,n/a,167,75,C-3PO,Tatooine,Droid
+2,red,7,n/a,96,32,R2-D2,Naboo,Droid
+3,yellow,4,none,202,136,Darth Vader,Tatooine,Human
+4,brown,5,brown,150,49,Leia Organa,Alderaan,Human
+5,blue,3,"brown, grey",178,120,Owen Lars,Tatooine,Human
+6,blue,3,brown,165,75,Beru Whitesun lars,Tatooine,Human
+7,red,1,n/a,97,32,R5-D4,Tatooine,Droid
+8,brown,1,black,183,84,Biggs Darklighter,Tatooine,Human
+9,blue-gray,6,"auburn, white",182,77,Obi-Wan Kenobi,Stewjon,Human
+10,blue,3,blond,188,84,Anakin Skywalker,Tatooine,Human
+11,blue,2,"auburn, grey",180,unknown,Wilhuff Tarkin,Eriadu,Human
+12,blue,5,brown,228,112,Chewbacca,Kashyyyk,Wookiee
+13,brown,4,brown,180,80,Han Solo,Corellia,Human
+14,black,1,n/a,173,74,Greedo,Rodia,Rodian
+15,orange,3,n/a,175,"1,358",Jabba Desilijic Tiure,Nal Hutta,Hutt
+16,hazel,3,brown,170,77,Wedge Antilles,Corellia,Human
+17,blue,1,brown,180,110,Jek Tono Porkins,Bestine IV,Human
+18,brown,5,white,66,17,Yoda,unknown,Yoda's species
+19,yellow,5,grey,170,75,Palpatine,Naboo,Human
+20,brown,3,black,183,78.2,Boba Fett,Kamino,Human
+21,red,1,none,200,140,IG-88,unknown,Droid
+22,red,1,none,190,113,Bossk,Trandosha,Trandoshan
+23,brown,2,black,177,79,Lando Calrissian,Socorro,Human
+24,blue,1,none,175,79,Lobot,Bespin,Human
+25,orange,2,none,180,83,Ackbar,Mon Cala,Mon Calamari
+26,blue,1,auburn,150,unknown,Mon Mothma,Chandrila,Human
+27,brown,1,brown,unknown,unknown,Arvel Crynyd,unknown,Human
+28,brown,1,brown,88,20,Wicket Systri Warrick,Endor,Ewok
+29,black,1,none,160,68,Nien Nunb,Sullust,Sullustan
+30,blue,1,brown,193,89,Qui-Gon Jinn,unknown,Human
+31,red,3,none,191,90,Nute Gunray,Cato Neimoidia,Neimodian
+32,blue,1,blond,170,unknown,Finis Valorum,Coruscant,Human
+33,brown,3,brown,165,45,Padmé Amidala,Naboo,Human
+34,orange,2,none,196,66,Jar Jar Binks,Naboo,Gungan
+35,orange,1,none,224,82,Roos Tarpals,Naboo,Gungan
+36,orange,1,none,206,unknown,Rugor Nass,Naboo,Gungan
+37,yellow,2,black,137,unknown,Watto,Toydaria,Toydarian
+38,orange,1,none,112,40,Sebulba,Malastare,Dug
+39,brown,2,black,163,unknown,Shmi Skywalker,Tatooine,Human
+40,yellow,1,none,175,80,Darth Maul,Dathomir,Zabrak
+41,pink,1,none,180,unknown,Bib Fortuna,Ryloth,Twi'lek
+42,hazel,3,none,178,55,Ayla Secura,Ryloth,Twi'lek
+43,unknown,1,none,79,15,Ratts Tyerell,Aleen Minor,Aleena
+44,yellow,1,none,94,45,Dud Bolt,Vulpter,Vulptereen
+45,black,1,none,122,unknown,Gasgano,Troiken,Xexto
+46,orange,1,none,163,65,Ben Quadinaros,Tund,Toong
+47,brown,3,none,188,84,Mace Windu,Haruun Kal,Human
+48,yellow,3,white,198,82,Ki-Adi-Mundi,Cerea,Cerean
+49,black,3,none,196,87,Kit Fisto,Glee Anselm,Nautolan
+50,brown,2,black,171,unknown,Eeth Koth,Iridonia,Zabrak
+51,blue,2,none,184,50,Adi Gallia,Coruscant,Tholothian
+52,orange,2,none,188,unknown,Saesee Tiin,Iktotch,Iktotchi
+53,yellow,1,none,264,unknown,Yarael Poof,Quermia,Quermian
+54,black,3,none,188,80,Plo Koon,Dorin,Kel Dor
+55,blue,2,none,196,unknown,Mas Amedda,Champala,Chagrian
+56,brown,1,black,185,85,Gregar Typho,Naboo,Human
+57,brown,1,brown,157,unknown,Cordé,Naboo,Human
+58,blue,1,brown,183,unknown,Cliegg Lars,Tatooine,Human
+59,yellow,2,none,183,80,Poggle the Lesser,Geonosis,Geonosian
+60,blue,2,black,170,56.2,Luminara Unduli,Mirial,Mirialan
+61,blue,1,black,166,50,Barriss Offee,Mirial,Mirialan
+62,brown,1,brown,165,unknown,Dormé,Naboo,Human
+63,brown,2,white,193,80,Dooku,Serenno,Human
+64,brown,2,black,191,unknown,Bail Prestor Organa,Alderaan,Human
+65,brown,1,black,183,79,Jango Fett,Concord Dawn,Human
+66,yellow,1,blonde,168,55,Zam Wesell,Zolan,Clawdite
+67,yellow,1,none,198,102,Dexter Jettster,Ojom,Besalisk
+68,black,1,none,229,88,Lama Su,Kamino,Kaminoan
+69,black,1,none,213,unknown,Taun We,Kamino,Kaminoan
+70,blue,1,white,167,unknown,Jocasta Nu,Coruscant,Human
+71,unknown,1,none,193,48,Wat Tambor,Skako,Skakoan
+72,gold,1,none,191,unknown,San Hill,Muunilinst,Muun
+73,black,2,none,178,57,Shaak Ti,Shili,Togruta
+74,"green, yellow",1,none,216,159,Grievous,Kalee,Kaleesh
+75,blue,1,brown,234,136,Tarfful,Kashyyyk,Wookiee
+76,brown,2,brown,188,79,Raymus Antilles,Alderaan,Human
