@@ -1,0 +1,20 @@
+
+Este DataSet contiene información de 77 personajes de Star Warsen KG.
+Los campos son: 
+name:        nombre del personaje.
+specie:      nombre de la especie del personaje.
+planet:      planeta de donde proviene el personaje.
+films:       número de películas en las que el personaje ha aparecido.
+mass:        masa(Kg)
+height:      altura(cm)
+hair_color:  color o colores de cabello
+eye_color:   color de ojos
+
+Se proporcionan 2 formato para utilizar el dataset,
+StarWars.csv    ->  Archivo separado por comas, utilizar pd.read_csv() para leerlo como DataFrame usando Python.
+StarWarsDf      ->  Este el DataFrame serializado, para leerlo utilizar pd.read_pickle()  
+
+En caso de queres más información acerca de la SWAP, 
+https://swapi.co/
+https://github.com/phalt/swapi-python
+
